@@ -1,0 +1,16 @@
+It is not difficult to test a class thouroughly.
+It is easier to keep track of the tests, compared til a main().
+This is because a main-test doesn't follow a "standard".
+
+Extensibility: It is easiest to extend via unit-testing
+because you catch the errors early on. The code-area you
+have to search is smaller.
+
+Maintainability: Unit testing is more maintainable since
+you are using a framework which is designed to assist you
+when you are writing testing-code.
+
+Readability: It is easier to read Unit-testing, but this
+require the new persons to be familiar with the framework.
+
+Automation: Unit testing.
